@@ -1,1 +1,2 @@
 INDEX1
+INDEX2
